@@ -1,0 +1,24 @@
+[project]
+name = "Superstore Sales Dashboard"
+version = "0.1.0"
+description = "Superstore Sales Data Visualization Dashboard"
+authors = [
+    {name = "Petyo Emilov Radoykov",email = "petyoradoykov@gmail.com"}
+]
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit (>=1.57.0,<2.0.0)",
+    "pandas (>=3.0.2,<4.0.0)",
+    "pandera (>=0.31.1,<0.32.0)",
+    "plotly (>=6.7.0,<7.0.0)",
+    "pathlib (>=1.0.1,<2.0.0)",
+    "logging (>=0.4.9.6,<0.5.0.0)",
+    "pytest (>=9.0.3,<10.0.0)",
+    "pyarrow (>=24.0.0,<25.0.0)",
+    "requests (>=2.33.1,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

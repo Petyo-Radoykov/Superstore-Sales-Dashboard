@@ -1,0 +1,12 @@
+High priority
+data loads successfully
+schema validation works
+correct columns exist
+
+Medium
+filters work
+transformations behave correctly
+
+Low priority (skipping for now)
+Streamlit UI rendering
+exact chart output

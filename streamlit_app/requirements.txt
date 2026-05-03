@@ -1,0 +1,17 @@
+Software Engineer Technical Assessment
+
+Specification
+
+Produce a set of visualised insights from this superstore sales dataset. Use any software stack you prefer.
+
+Hint: this is intended as a software engineering assessment.
+
+Assessment
+We will review your application together at interview, with focus on the following areas:
+• Functionality
+• Stability
+• Testing
+• Code quality
+• Software stack
+
+Please submit your assessment as a GitHub repo along with a short video or screenshots showing your work.
