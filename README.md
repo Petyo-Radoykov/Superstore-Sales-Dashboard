@@ -135,7 +135,7 @@ DATA_SOURCE_TYPE = "local"  # or "git"
 
 ---
 
-## 👤 Author
+## Author
 
 **Petyo Emilov Radoykov**
 📧 [petyoradoykov@gmail.com](mailto:petyoradoykov@gmail.com)
