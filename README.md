@@ -1,11 +1,10 @@
 # Superstore-Sales-Dashboard
-# Superstore Sales Dashboard
 
 A **Streamlit-based interactive dashboard** for exploring and analyzing Superstore sales data using the `superstore.arrow` dataset. This project demonstrates clean architecture, data validation, and rich visualizations for business insights.
 
 ---
 
-## 🚀 Features
+## Features
 
 * Interactive sales and profit dashboards
 * Data exploration with filtering and search
@@ -93,7 +92,7 @@ poetry run pytest
 
 ---
 
-## 📊 Data Source
+## Data Source
 
 The dashboard uses the **Superstore dataset** stored in Apache Arrow format:
 
@@ -149,7 +148,7 @@ This project is intended for educational and portfolio purposes.
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 * Deploy to Streamlit Cloud / Docker
 * Add advanced analytics (forecasting, clustering)
@@ -158,7 +157,7 @@ This project is intended for educational and portfolio purposes.
 
 ---
 
-## ⭐ Acknowledgements
+## Acknowledgements
 
 * Superstore dataset (public domain)
 * Streamlit for rapid UI development
