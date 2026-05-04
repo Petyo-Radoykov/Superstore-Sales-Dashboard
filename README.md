@@ -29,7 +29,7 @@ Python_charts/
     ├── services/              # Business logic (filters, etc.)
     ├── utils/                 # Utilities (logging, exceptions)
     ├── ui/                    # UI components (dashboard, sidebar, explorer)
-    └── tests/                 # application unit tests
+    └── tests/                 # Application unit tests
 ```
 
 ---
