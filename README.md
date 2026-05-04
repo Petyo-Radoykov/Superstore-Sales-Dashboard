@@ -23,13 +23,16 @@ Python_charts/
 ├── app.py                     # Entry point for Streamlit app
 ├── pyproject.toml             # Project configuration (Poetry)
 └── streamlit_app/
+    ├── assets/                # Multimedia files used to illustrate the application dashboard 
     ├── config.py              # Configuration and constants
     ├── data/                  # Data loading and sources
     ├── domain/                # Schema and transformations
     ├── services/              # Business logic (filters, etc.)
+    ├── tests/                 # Application unit tests
     ├── utils/                 # Utilities (logging, exceptions)
-    ├── ui/                    # UI components (dashboard, sidebar, explorer)
-    └── tests/                 # Application unit tests
+    └── ui/                    # UI components (dashboard, sidebar, explorer)
+
+    
 ```
 
 ---
